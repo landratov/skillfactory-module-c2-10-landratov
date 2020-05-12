@@ -1,0 +1,17 @@
+.vertical-center {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+
+.container {
+    max-width: 68em;
+}
+
+.btn {
+    width: 100%;
+}
+
+.progress {
+	margin-top: 5px;
+}
